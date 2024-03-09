@@ -1,7 +1,7 @@
 # Quasar App (jest-test-function-page)
 
 A Quasar Project
-
+test
 ## Install the dependencies
 ```bash
 yarn
